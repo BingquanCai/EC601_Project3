@@ -10,7 +10,7 @@ Therefore, the function of `test_search_tweets()` will test `search_tweets()`. I
 ## Test 2
 The function of `clean_tweets()` can clean up tweets into specific format. It will remove the username, links and numbers in every tweets. It will also convert all of the characters into lower space and remove every unnecessary space.
 
-The function of `test_clean_tweets()` is going to test if tweets were cleaned up to specific format which should only be letters after `clean_tweets()`.
+Therefore, the function of `test_clean_tweets()` is going to test if tweets were cleaned up to specific format which should only be letters after `clean_tweets()`.
 
 # Test 3
 The function of `test_get_sentiment_score_positive()`, `test_get_sentiment_score_negative()` and `test_get_sentiment_score_neutral()` is going to test the sentiment part.
